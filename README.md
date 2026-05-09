@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" width="800" alt="Kushagra Mehta" />
+  <img src="https://raw.githubusercontent.com/kushagra819/kushagra819/main/header.svg" width="800" alt="Kushagra Mehta" />
 </div>
 <br/>
 <div align="center">
