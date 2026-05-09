@@ -1,11 +1,14 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=21BB85&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kushagra+Mehta+%F0%9F%91%8B;AI+%26+DS+Student+%40+TSEC+Mumbai;Machine+Learning+%7C+Deep+Learning;R%C2%B2+%E2%89%88+0.96+on+my+ANN+model+%F0%9F%94%A5;Always+building+something+cool..." alt="Typing SVG" />
+  <img src="header.svg" width="800" alt="Kushagra Mehta" />
+</div>
 
 <br/>
 
+<div align="center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=kushagra819&color=21bb85&style=flat-square&label=profile+views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-mehta-a86916258)[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagramehta21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-mehta-a86916258)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagramehta21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushagra819)
 
 </div>
