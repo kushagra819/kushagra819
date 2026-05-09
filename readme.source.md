@@ -1,6 +1,6 @@
-```aura width=860 height=200
+```aura width=860 height=210
 <div style={{
-  width: '860px', height: '200px', background: '#080c0a',
+  width: '860px', height: '210px', background: '#080c0a',
   display: 'flex', alignItems: 'center', fontFamily: 'Inter',
   position: 'relative', overflow: 'hidden', borderRadius: '16px',
   border: '1px solid rgba(33,187,133,0.25)'
@@ -78,9 +78,11 @@
 </div>
 ```
 
-```aura width=860 height=240
+<br>
+
+```aura width=860 height=290
 <div style={{
-  width: '860px', height: '240px', background: '#080c0a',
+  width: '860px', height: '290px', background: '#080c0a',
   display: 'flex', fontFamily: 'monospace',
   padding: '28px 40px', borderRadius: '16px',
   border: '1px solid rgba(33,187,133,0.2)',
@@ -123,6 +125,8 @@
 </div>
 ```
 
+<br>
+
 ```aura width=860 height=160
 <div style={{
   width: '860px', height: '160px', background: '#080c0a',
@@ -163,9 +167,11 @@
 </div>
 ```
 
-```aura width=860 height=310
+<br>
+
+```aura width=860 height=390
 <div style={{
-  width: '860px', height: '310px', background: '#080c0a',
+  width: '860px', height: '390px', background: '#080c0a',
   display: 'flex', flexDirection: 'column', fontFamily: 'monospace',
   padding: '22px 40px', borderRadius: '16px',
   border: '1px solid rgba(33,187,133,0.2)', gap: '14px'
