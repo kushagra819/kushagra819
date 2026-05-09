@@ -240,13 +240,17 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra819&show_icons=true&theme=github_dark&hide_border=true&title_color=21bb85&icon_color=21bb85&bg_color=080c0a&text_color=aaffdd" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra819&layout=compact&theme=github_dark&hide_border=true&title_color=21bb85&bg_color=080c0a&text_color=aaffdd&hide=jupyter%20notebook" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagra819&show_icons=true&theme=github_dark&hide_border=true&title_color=21bb85&icon_color=21bb85&bg_color=080c0a&text_color=aaffdd&rank_icon=github&cache_seconds=1800" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra819&layout=compact&theme=github_dark&hide_border=true&title_color=21bb85&bg_color=080c0a&text_color=aaffdd&hide=jupyter%20notebook&langs_count=6&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra819&bg_color=080c0a&color=21bb85&line=21bb85&point=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kushagra819&theme=dark&hide_border=true&background=080c0a&ring=21bb85&fire=21bb85&currStreakLabel=21bb85&sideLabels=aaffdd&dates=aaffdd&stroke=21bb8540" width="95%" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra819&bg_color=080c0a&color=21bb85&line=21bb85&point=ffffff&hide_border=true&area=true&area_color=21bb8520" />
 </p>
 
 ```aura width=860 height=70
