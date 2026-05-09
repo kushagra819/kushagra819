@@ -1,22 +1,12 @@
-<!-- ██╗  ██╗██╗   ██╗███████╗██╗  ██╗ █████╗  ██████╗ ██████╗  █████╗  -->
-<!-- ██║ ██╔╝██║   ██║██╔════╝██║  ██║██╔══██╗██╔════╝ ██╔══██╗██╔══██╗ -->
-<!-- █████╔╝ ██║   ██║███████╗███████║███████║██║  ███╗██████╔╝███████║ -->
-<!-- ██╔═██╗ ██║   ██║╚════██║██╔══██║██╔══██║██║   ██║██╔══██╗██╔══██║ -->
-<!-- ██║  ██╗╚██████╔╝███████║██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ -->
-<!-- ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ -->
-
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=21BB85&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kushagra+Mehta+%F0%9F%91%8B;AI+%26+DS+Student+%40+TSEC;Machine+Learning+%7C+Deep+Learning;R%C2%B2+%E2%89%88+0.96+%F0%9F%94%A5+on+my+ANN+model;Always+building+something+cool..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=21BB85&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kushagra+Mehta+%F0%9F%91%8B;AI+%26+DS+Student+%40+TSEC+Mumbai;Machine+Learning+%7C+Deep+Learning;R%C2%B2+%E2%89%88+0.96+on+my+ANN+model+%F0%9F%94%A5;Always+building+something+cool..." alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=kushagra819&color=21bb85&style=flat-square&label=profile+views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagramehta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-21bb85?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagramehta21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-mehta-a86916258)[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kushagramehta21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushagra819)
 
 </div>
 
@@ -45,8 +35,6 @@ me.say_hi()
 
 <div align="center">
 
-**Core ML / DL**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -56,9 +44,7 @@ me.say_hi()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Languages & Web**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,7 +60,7 @@ me.say_hi()
 
 - Generated 30+ samples by varying temperature, reflux ratio & feed composition
 - Trained Linear Regression, Random Forest & **ANN** — best model hit **R² ≈ 0.96**
-- Surrogate model dramatically reduces dependency on heavy computational simulations
+- Surrogate model reduces dependency on heavy computational simulations
 - `Stack:` Python · DWSIM · Scikit-learn · Neural Networks
 
 ---
@@ -89,7 +75,7 @@ me.say_hi()
 
 ---
 
-### 📈 Stock Price Movement Prediction · *(private/local)*
+### 📈 Stock Price Movement Prediction
 > *Next-day price movement classifier using historical market data*
 
 - Pulled & preprocessed data via **yFinance**
@@ -100,7 +86,7 @@ me.say_hi()
 ---
 
 ### 💊 TeleMedPilot · SIH '25 · [`repo`](https://github.com/kushagra819/TeleMedPilot-SIH-25)
-> *Smart India Hackathon 2025 — telemedicine platform*
+> *Telemedicine platform built for Smart India Hackathon 2025*
 
 - `Stack:` TypeScript · Next.js
 
@@ -120,9 +106,9 @@ me.say_hi()
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=kushagra819&show_icons=true&theme=github_dark&hide_border=true&title_color=21bb85&icon_color=21bb85&text_color=abb2bf&bg_color=0d1117" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra819&layout=compact&theme=github_dark&hide_border=true&title_color=21bb85&text_color=abb2bf&bg_color=0d1117" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra819&theme=github-compact&hide_border=true&color=21bb85&line=21bb85&point=ffffff&bg_color=0d1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushagra819&bg_color=0d1117&color=21bb85&line=21bb85&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -132,8 +118,8 @@ me.say_hi()
 
 | Period | Role | Where |
 |--------|------|--------|
-| June 2024 (1 month) | Web Developer — built hiring platform on WordPress | Aarvia Fintech Advisors Pvt Ltd |
-| March 2025 (1 month) | Shopify Developer — fixed Razorpay webhooks, custom solutions | Freelance |
+| June 2024 · 1 month | Web Developer — custom hiring platform on WordPress | Aarvia Fintech Advisors Pvt Ltd |
+| March 2025 · 1 month | Shopify Developer — Razorpay webhooks & custom solutions | Freelance |
 
 ---
 
@@ -149,7 +135,5 @@ me.say_hi()
 ```
 
 *"All models are wrong, but some are useful." — George Box*
-
-![wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg)
 
 </div>
